@@ -8,6 +8,8 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="book_cover_height">160dp</dimen>
-    <dimen name="book_title">15sp</dimen>
-
+    <dimen name="art_title">16sp</dimen>
+    <dimen name="toolbar_padding">16dp</dimen>
+    <dimen name="tlbar_height">64dp</dimen>
+    <dimen name="rv_padd">8dp</dimen>
 </resources>
