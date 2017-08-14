@@ -23,6 +23,16 @@
         <item name="colorAccent">@color/theme_accent</item>
     </style>
 
+    <style name="toobar_txt" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/toolbar_txt</item>
+    </style>
+
+    <style name="TransparentText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#fff</item>
+    </style>
+
     <style name="Theme.Bacon.Detail">
 
     </style>
